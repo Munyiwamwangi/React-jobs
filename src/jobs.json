@@ -83,6 +83,20 @@
         "contactEmail": "contact@ipsumlorem.com",
         "contactPhone": "555-555-5555"
       }
+    },
+    {
+      "id": "9e12",
+      "title": " Job Test",
+      "type": "Part-Time",
+      "location": "Kenya ",
+      "description": " testing post",
+      "salary": "Under $50K",
+      "company": {
+        "name": " MM Media",
+        "description": " Awesome company",
+        "contactEmail": "joe@gmail.com",
+        "contactPhone": " 444-4444-44444"
+      }
     }
   ]
 }
